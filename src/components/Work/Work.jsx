@@ -21,7 +21,7 @@ function Work() {
       <ol className="mt-6 space-y-4">
         <li className="flex gap-4">
           <div className="realtive mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-zinv-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
-            <img src="public/postcredit.svg" alt="PostCredit Logo" />
+            <img src="/postcredit.svg" alt="PostCredit Logo" />
           </div>
           <dl className="flex flex-auto flex-wrap gap-x-4">
             <dt hidden>Company</dt>
