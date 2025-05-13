@@ -10,14 +10,15 @@ function Main() {
       </div>
       <div className="mt-16 sm:mt-20 w-full min-h-[200px] relative mx-auto">
         <img
-          className="absolute top-30 left-20 sm:left:10 max-w-[250px] dark:hidden"
+          className="absolute left-[-5px] h-[150px] sm:left-10 sm:h-auto max-w-[250px] dark:hidden"
           src="/Untitled design.png"
           alt="Cartoon Olivia"
         />
+
         <svg
           viewBox="0 0 200 200"
           xmlns="http://www.w3.org/2000/svg"
-          className="absolute w-90 h-90 -top-[20%] left-[70%]"
+          className="absolute h-[200px] left-[250px] top-[10px] sm:left-[70%] sm:top-[-30%] sm:h-[360px]"
         >
           <path
             fill="#BAE6FF"
@@ -28,7 +29,7 @@ function Main() {
         <svg
           viewBox="0 0 200 200"
           xmlns="http://www.w3.org/2000/svg"
-          className="absolute w-90 h-90 top-[40%] left-[60%]"
+          className="absolute h-[200px] left-[200px] top-[50px] sm:left-[60%] sm:top-[10%] sm:h-[360px]"
         >
           <path
             fill="#F1C21B"
@@ -37,7 +38,7 @@ function Main() {
           />
         </svg>
       </div>
-      <div className="flex justify-center pt-35 sm:mt-25">
+      <div className="flex justify-center pt-10 sm:mt-25">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
