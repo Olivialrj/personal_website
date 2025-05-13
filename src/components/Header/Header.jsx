@@ -16,7 +16,7 @@ function Header() {
               </p>
               <div className="flex space-x-4 mt-6 gap-6">
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/olivialrj"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-black hover:text-gray-300 transition-colors duration-300"
