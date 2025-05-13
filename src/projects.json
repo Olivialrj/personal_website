@@ -5,7 +5,7 @@
       "description": "A application where users can search up the latest news article and saved them into their reading list.",
       "skills": " React, MUI, Node.js, Express.js",
       "link": "https://final-project-rosy-seven.vercel.app/",
-      "image": "/public/final_project.png"
+      "image": "/final_project.png"
     },
     {
       "name": "WTWR",
@@ -18,7 +18,7 @@
       "description": "Deveoped this site because I want to be familiar with Vue framework, it's a job application tracker",
       "link": "vue-crash-2025",
       "skills": "Vue, Tailwind CSS",
-      "image": "/public/vue.png"
+      "image": "/vue.png"
     }
   ]
 }

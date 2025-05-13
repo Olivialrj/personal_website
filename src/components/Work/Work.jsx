@@ -40,7 +40,7 @@ function Work() {
         </li>
         <li className="flex gap-4">
           <div className="realtive mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-zinv-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
-            <img src="public/commerzbank.png" alt="PostCredit Logo" />
+            <img src="/commerzbank.png" alt="PostCredit Logo" />
           </div>
           <dl className="flex flex-auto flex-wrap gap-x-4">
             <dt hidden>Company</dt>
@@ -60,7 +60,7 @@ function Work() {
         <li className="flex gap-4">
           <div className="realtive mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-zinv-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
             <img
-              src="public/international_asset_monitor_logo.jpeg"
+              src="/international_asset_monitor_logo.jpeg"
               alt="PostCredit Logo"
             />
           </div>
@@ -100,7 +100,7 @@ function Work() {
       <ol className="mt-6 space-y-4">
         <li className="flex gap-4">
           <div className="realtive mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-zinv-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
-            <img src="public/images.png" alt="PostCredit Logo" />
+            <img src="/images.png" alt="PostCredit Logo" />
           </div>
           <dl className="flex flex-auto flex-wrap gap-x-4">
             <dt hidden>School</dt>
@@ -118,8 +118,8 @@ function Work() {
         <li className="flex gap-4">
           <div className="realtive mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-zinv-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
             <img
-              src="public/Shield_of_the_University_of_Birmingham.svg"
-              alt="PostCredit Logo"
+              src="/Shield_of_the_University_of_Birmingham.svg"
+              alt="University of Birmingham Logo"
             />
           </div>
           <dl className="flex flex-auto flex-wrap gap-x-4">
@@ -140,8 +140,8 @@ function Work() {
         <li className="flex gap-4">
           <div className="realtive mt-1 flex h-10 w-10 flex-none items-center justify-center rounded-full shadow-md shadow-zinc-800/5 ring-zinv-900/5 dark:border dark:border-zinc-700/50 dark:bg-zinc-800 dark:ring-0">
             <img
-              src="public/nyp-logo-png_seeklogo-305215.png"
-              alt="PostCredit Logo"
+              src="/nyp-logo-png_seeklogo-305215.png"
+              alt="Nanyang Polytechnic Logo"
             />
           </div>
           <dl className="flex flex-auto flex-wrap gap-x-4">
@@ -163,7 +163,7 @@ function Work() {
       <a
         download
         className="inline-flex items-center gap-2 justify-center rounded-md py-3 px-4 text-sm outline-offset-2 transition active:transition-none bg-zinc-50 font-medium text-zinc-900 hover:bg-zinc-100 active:bg-zinc-100 active:text-zinc-900/60 dark:bg-zinc-800/50 dark:text-zinc-300 dark:hover:bg-zinc-800 dark:hover:text-zinc-50 dark:active:bg-zinc-800/50 dark:active:text-zinc-50/70 group mt-6 w-full"
-        href="/public/Olivia_Lim_Resume.pdf"
+        href="/Olivia_Lim_Resume.pdf"
       >
         Download CV
         <svg
