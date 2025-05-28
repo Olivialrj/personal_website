@@ -11,12 +11,12 @@
       "name": "WTWR",
       "description": "A application where users can save their clothes and the application will organise them accordingly based on the weather.",
       "skills": " React, CSS, Node.js, Express.js",
-      "link": "se_project_react"
+      "link": "https://se-project-react-gold.vercel.app/"
     },
     {
       "name": "My Job Tracker",
       "description": "Deveoped this site because I want to be familiar with Vue framework, it's a job application tracker",
-      "link": "vue-crash-2025",
+      "link": "https://vue-crash-2025.vercel.app/",
       "skills": "Vue, Tailwind CSS",
       "image": "/vue.png"
     }
