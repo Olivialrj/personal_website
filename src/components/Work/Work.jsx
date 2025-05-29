@@ -131,9 +131,9 @@ function Work() {
             <dd className=" text-sm">B.S. Busines Management</dd>
             <dt hidden>Date</dt>
             <dd className="ml-auto text-xs" aria-label="2019 until present">
-              <time datetime="2023">2023</time>
+              <time datetime="2023">2019</time>
               <span>-</span>
-              <time datetime="2024">2024</time>
+              <time datetime="2024">2021</time>
             </dd>
           </dl>
         </li>
@@ -153,9 +153,9 @@ function Work() {
             <dd className=" text-sm">Aerospace Engineering</dd>
             <dt hidden>Date</dt>
             <dd className="ml-auto text-xs" aria-label="2019 until present">
-              <time datetime="2021">2021</time>
+              <time datetime="2021">2015</time>
               <span>-</span>
-              <time datetime="2023">2023</time>
+              <time datetime="2023">2018</time>
             </dd>
           </dl>
         </li>
