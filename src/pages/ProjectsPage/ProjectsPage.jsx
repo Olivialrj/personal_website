@@ -7,8 +7,13 @@ function ProjectsPage() {
       <div className="mx-auto w-full max-w-7xl">
         <div className="relative px-4 sm:px-8 lg:px-12">
           <div className="mx-auto max-w-2xl lg:max-w-5xl">
-            <ProjectsHeader />
-            <ProjectCard />
+            {/* <ProjectsHeader />
+            <ProjectCard /> */}
+            <div className="mt-20 flex justify-center items-center">
+              <p className="text-2xl font-semibold text-zinc-600 dark:text-zinc-300 animate-pulse">
+                🚧 Projects Coming Soon 🚀
+              </p>
+            </div>
           </div>
         </div>
       </div>
