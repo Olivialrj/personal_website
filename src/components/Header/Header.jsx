@@ -66,7 +66,7 @@ function Header() {
                   <FaGithub className="w-6 h-6" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/olivialrj"
+                  href="https://www.linkedin.com/in/olivia-lim97"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-black hover:text-gray-300 transition-colors duration-300"
